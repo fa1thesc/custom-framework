@@ -1,0 +1,15 @@
+{
+  "name": "custom-framework",
+  "version": "1.0.0",
+  "description": "A personal framework. Will focus on basic functionalities for now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fa1thesc",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
