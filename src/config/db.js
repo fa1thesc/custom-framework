@@ -5,3 +5,5 @@ const config = {
     database: '',
     test: 'test',
 }
+
+module.exports = config 
